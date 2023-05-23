@@ -57,7 +57,7 @@ Qual o payback (período para recuperar os investimentos)?
 Qual o ROI esperado?
 
 # Como Executar Este Projeto
-1. Baixar o conjunto de dados de Singapore no site do Airbnb inside.
+1. Baixar o conjunto de dados de Boston no site do Airbnb inside.
 2. Hospedar o conjunto de dados em um DBMS de sua preferência. Em nossa análise utilizamos o Data World (https://data.world/login?next=%2Fverify-email%3Fid%3Dfb17d495-fedf-43ef-9b41-0b4e76722993)
 3. Copiar as consultas de sql.
 4. Por fim, para visualização de dados, integrar seu banco de dados ao Power BI, Tableau e Google Sheets.
@@ -86,10 +86,3 @@ Qual o ROI esperado?
 # GitHub
 1. Create a repository
 2. Deploy to personal pages
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
