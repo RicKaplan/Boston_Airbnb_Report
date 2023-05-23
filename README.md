@@ -62,6 +62,30 @@ Qual o ROI esperado?
 3. Copiar as consultas de sql.
 4. Por fim, para visualização de dados, integrar seu banco de dados ao Power BI, Tableau e Google Sheets.
 
+# Principais Tópicos de Aprendizagem
+# SQL
+1. Comandos de seleção
+2. Operadores (Aritméticos, Lógicos, Comparação, "is")
+3. Apelidos
+4. Comandos de restrição
+5. Comandos condicionais
+6. Comandos de agrupamento e ordenação
+7. Relacionamento de tabelas
+8. Funções de Datas
+9. Join ou inner join
+10. SubQuery como tabela
+11. SubQuery como coluna
+12. SubQuery como filtro
+
+# Git & Git workflow
+1. Git add
+2. Git commit
+3. Git branch
+4. Git push
+5. Git pull
+# GitHub
+1. Create a repository
+2. Deploy to personal pages
 
 
 
