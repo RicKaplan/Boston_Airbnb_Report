@@ -7,3 +7,57 @@ O objetivo deste trabalho é responder a seguinte problemática:
 Um investidor pessoal contratou seus serviços. Ele está planejando comprar 10 imóveis de férias para investimento no Airbnb. Com base no desempenho dos imóveis que você analisou, esse é um bom investimento? Quais as recomendações de investimentos?
 
 Para apresentação e visualização de dados acesse: 
+
+# Datasource
+Os dados são provenientes do site Airbnb inside e a análise foi elaborada no seguinte conjunto de dados disponíveis:
+
+Listings.CSV
+Apresenta dados detalhados referentes a todas as listagens no período de junho/2016 a setembro/2017. 
+
+Reviews.CSV
+Apresenta dados detalhados referentes às avaliações dos usuários sobre as propriedades no período de março/2009 a setembro/2016
+
+Calendar.CSV
+Apresenta dados detalhados referentes ao calendário e preços praticados pelas propriedades no período de setembro/2016 a setembro/2017
+
+# Quais são as principais perguntas que devemos fazer aos dados?
+
+# 1. Descriptive Analysis
+Como está o mercado?
+Como a demanda evoluiu nesses dois anos?
+Como está a oferta de imóveis nesses dois anos?
+O que os hóspedes valorizam?
+Qual a quantidade de propriedades por bairro? 
+Quais é o ranking dos bairros com mais propriedades (Top 10)? 
+Quais os tipos de acomodação mais procurados?
+Quais são os tipos de propriedades mais procurados? 
+Qual o número de quartos preferido pelos hóspedes?
+Qual a quantidade ideal de camas?
+
+# 2. Revenue Analysis
+Qual é a média de preços por bairro?
+Qual a taxa de ocupação por bairro? 
+Qual o faturamento anual estimado por bairro?
+Qual o ranking dos bairros com maiores faturamentos?
+
+# 3. Hosts
+Quem são os top hosts (os big players que detêm os maiores faturamentos)?
+Como está o Market Share desse mercado?
+Em quais bairros potenciais os Top Hosts mais investem?
+Qual a vantagem competitiva dos Top Hosts?
+
+# 4. Financial Analysis
+Quais são os patamares de investimentos necessários?
+Será necessário financiamento?
+Qual o montante de despesas incorridas no imóvel?
+Quais são os patamares de faturamento projetados?
+Qual o resultado anual esperado?
+Haverá lucro ou prejuízo?
+Qual o payback (período para recuperar os investimentos)?
+Qual o ROI esperado?
+
+
+
+
+
+
