@@ -86,8 +86,3 @@ Qual o ROI esperado?
 # GitHub
 1. Create a repository
 2. Deploy to personal pages
-
-<ul>
-  <source media="(prefers-color-scheme: dark)" srcset="https://powerbi.microsoft.com/pt-br/landing/free-account/?ef_id=_k_Cj0KCQjwyLGjBhDKARIsAFRNgW-Hu_sEOFye1x8HgGAx1I1XsH9RL62oJkwlYmUzsfDoU_qEb3OpKAcaAgKmEALw_wcB_k_&OCID=AIDcmmk4cy2ahx_SEM__k_Cj0KCQjwyLGjBhDKARIsAFRNgW-Hu_sEOFye1x8HgGAx1I1XsH9RL62oJkwlYmUzsfDoU_qEb3OpKAcaAgKmEALw_wcB_k_&gclid=Cj0KCQjwyLGjBhDKARIsAFRNgW-Hu_sEOFye1x8HgGAx1I1XsH9RL62oJkwlYmUzsfDoU_qEb3OpKAcaAgKmEALw_wcB)">
-</ul>
-
