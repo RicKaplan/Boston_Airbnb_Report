@@ -40,7 +40,7 @@ Qual a taxa de ocupação por bairro?
 Qual o faturamento anual estimado por bairro?
 Qual o ranking dos bairros com maiores faturamentos?
 
-# 3. Hosts
+# 3. Hosts Analysis
 Quem são os top hosts (os big players que detêm os maiores faturamentos)?
 Como está o Market Share desse mercado?
 Em quais bairros potenciais os Top Hosts mais investem?
