@@ -87,9 +87,7 @@ Qual o ROI esperado?
 1. Create a repository
 2. Deploy to personal pages
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<ul>
+  <source media="(prefers-color-scheme: dark)" srcset="https://powerbi.microsoft.com/pt-br/landing/free-account/?ef_id=_k_Cj0KCQjwyLGjBhDKARIsAFRNgW-Hu_sEOFye1x8HgGAx1I1XsH9RL62oJkwlYmUzsfDoU_qEb3OpKAcaAgKmEALw_wcB_k_&OCID=AIDcmmk4cy2ahx_SEM__k_Cj0KCQjwyLGjBhDKARIsAFRNgW-Hu_sEOFye1x8HgGAx1I1XsH9RL62oJkwlYmUzsfDoU_qEb3OpKAcaAgKmEALw_wcB_k_&gclid=Cj0KCQjwyLGjBhDKARIsAFRNgW-Hu_sEOFye1x8HgGAx1I1XsH9RL62oJkwlYmUzsfDoU_qEb3OpKAcaAgKmEALw_wcB)">
+</ul>
 
