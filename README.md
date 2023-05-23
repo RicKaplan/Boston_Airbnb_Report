@@ -57,7 +57,7 @@ Qual o payback (período para recuperar os investimentos)?
 Qual o ROI esperado?
 
 # Como Executar Este Projeto
-1. Baixar o conjunto de dados de Singapore no site do Airbnb inside.
+1. Baixar o conjunto de dados de Boston no site do Airbnb inside.
 2. Hospedar o conjunto de dados em um DBMS de sua preferência. Em nossa análise utilizamos o Data World (https://data.world/login?next=%2Fverify-email%3Fid%3Dfb17d495-fedf-43ef-9b41-0b4e76722993)
 3. Copiar as consultas de sql.
 4. Por fim, para visualização de dados, integrar seu banco de dados ao Power BI, Tableau e Google Sheets.
